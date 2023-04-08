@@ -14,3 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I'm Gibbs!
+🤓 My values
+🍏 Beginner's mindset and curiosity
+🙌 Sharing anything I learned
+
+🔭 Goals of 2023
+
+
+🧠 That I know and use
+📚 Langues and Frameworks
+HTML5
+CSS3
+Bootstrap
+JavaScript
+Python
+
+🔧 Tool
+Version Control(Git)
+PyTorch
+TensorFlow
+AWS
+
+Open Source Projects
+💡 Projects
+
+🔗 Get in touch
+Personal site: 
