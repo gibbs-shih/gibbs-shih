@@ -23,18 +23,19 @@ Here are some ideas to get you started:
 #### 📚 Languages、Tools and Frameworks
 - CSS3、HTML5
 - Bootstrap
-- JavaScript
-- Node.js、Express
+- JavaScript、TypeScript
+- Node.js、Express、Nest.js
 - Passport、Bcryptjs、Imgur、SweetAlert、Express-session、Connect-flash
 - RESTful API
 - Agile、Scrum
 - RESTful API
-- MySQL、MongoDB
+- MySQL、SQLite、PostgreSQL、MongoDB
 - CI / CD
 - Git version control
 - AWS、Heroku
 - Python
 - PyTorch、TensorFlow
+- Linux
 
 ## 💡 *Projects*
 - [微型Twitter專案](https://github.com/scheng0718/twitter-fullstack-2020)
